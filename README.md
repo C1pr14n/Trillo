@@ -1,2 +1,3 @@
 # Trillo
-Hotel landing page
+Hotels landing page built with Sass
+Live at:
